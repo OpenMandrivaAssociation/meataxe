@@ -1,6 +1,6 @@
 Name:           meataxe
 Version:        2.4.24
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Matrix representations over finite fields
 
 Group:          Sciences/Mathematics
