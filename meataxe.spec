@@ -5,7 +5,7 @@ Summary:        Matrix representations over finite fields
 
 Group:          Sciences/Mathematics
 License:        GPLv2+
-URL:            http://www.math.rwth-aachen.de/~MTX/
+URL:            https://www.math.rwth-aachen.de/~MTX/
 Source0:        http://www.math.rwth-aachen.de/~MTX/%{name}-%{version}.tar.gz
 # These man pages were written by Jerry James <loganjerry@gmail.com> using
 # text taken from the sources.  Therefore, these pages have the same copyright
