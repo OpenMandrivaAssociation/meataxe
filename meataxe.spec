@@ -16,6 +16,7 @@ Source1:        %{name}-man.tar.xz
 # not interested in building a shared library.
 Patch0:         %{name}-shared.patch
 
+BuildRequires:	make
 BuildRequires:  doxygen
 Requires:       %{name}-libs%{?_isa} = %{version}-%{release}
 
